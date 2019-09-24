@@ -1,0 +1,14 @@
+.border {
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 0 auto;
+}
+.red{
+    color: red;
+}
+.inside
+{
+    justify-content: center;
+}
